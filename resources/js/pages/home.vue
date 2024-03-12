@@ -1,36 +1,37 @@
 <template>
     <div>
 <h1>Home Vue</h1>
+<h1>asdwadwadaaaaaaaaaaaaaaaaaaaaaa</h1>
     </div>
 </template>
 
 <script>
 export default {
-    setup () {
+    // setup () {
         
 
-        return {}
-    },
+    //     return {}
+    // },
 
-    data(){
-        return {
+    // data(){
+    //     return {
 
-        }
-    },
-    methods: {
+    //     }
+    // },
+    // methods: {
             
-        },
+    //     },
 
-        computed: {
+    //     computed: {
 
-        },
-        watch: {
+    //     },
+    //     watch: {
 
-        },
+    //     },
 
-        created: {
+    //     created: {
 
-        }
+    //     }
 }
 </script>
 
