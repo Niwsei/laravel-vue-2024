@@ -1,11 +1,11 @@
 <template>
     <div>
-        <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme h-100">
+        <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme h-100" >
 
   
-<div class="app-brand demo ">
-  <a href="index.html" class="app-brand-link">
-    <span class="app-brand-logo demo">
+<div class="app-brand demo  ">
+  <a href="/store"  class="app-brand-link">
+    <span class="app-brand-logo demo" >
 
 <svg width="25" viewbox="0 0 25 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
@@ -41,7 +41,7 @@
 </svg>
 
 </span>
-    <span class="app-brand-text demo menu-text fw-bold ms-2">Sneat</span>
+    <span class="app-brand-text demo menu-text fw-bold ms-2">POS</span>
   </a>
 
   <router-link to="/" class="layout-menu-toggle menu-link text-large ms-auto">
@@ -98,7 +98,8 @@
         
             data() {
                 return {
-                ass:''
+                ass:'',
+            
                 }
             },
 
